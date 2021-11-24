@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/drawable/angel.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/drawable/death.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/drawable/fate.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/drawable/nhk.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/drawable/suzumiya.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/Cristian Alvarez/AndroidStudioProjects/RecyclerView_CardViews/app/src/main/res/layout/anime_card.xml" value="0.19655797101449277" />
+        <entry key="..\:/Users/Cristian Alvarez/Documents/GitHub/RecyclerView_CardViews/app/src/main/res/layout/anime_card.xml" value="0.192481884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
